@@ -6,4 +6,4 @@ jobs:
         runs-on: macos-latest
         steps:
         - name: Apresentar mensagem
-          run: echo "Deu bom!"   
+          run: eco "Deu bom!"   
